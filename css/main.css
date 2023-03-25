@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    display: flex;
+}
+* {
+box-sizing: border-box;
+}
+.button {
+    color: white;
+    border-radius: 100px;
+    background:  #FF6861;
+    text-decoration: none;
+    padding: 22px 70px;
+    display: block;
+    width: 219px;
+    font-size: 18px;
+    font-weight: 700; 
+    transition: all 0.5s ease;
+    
+}
+    .button:hover {
+    color: black;
+    background: yellow;
+    }
+
+h1 {
+    font-size: 50px; 
+    font-weight: 700;
+}
+p{
+    font-size: 18px;
+    margin: 38px 0;
+    font-weight: 400;
+    
+}
+div {
+margin-right: 176px;
+width: 465px;
+} 
